@@ -147,6 +147,11 @@ Simulate a potential account compromise.
 ### Security Insight:
 Unexpected privilege escalation is a strong indicator of compromise and requires immediate investigation and containment.
 
+## Screenshots
+![Privilege Escalation](screenshots/incident/incident-added-to-it-security.png)
+![Remediation](screenshots/incident/incident-removed-from-it-security.png)
+![Remediation](screenshots/incident/incident-account-disabled.png)
+![Audit Log](screenshots/incident/incident-audit-log.png)
 ---
 
 # 🔍 Logging & Monitoring
