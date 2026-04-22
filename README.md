@@ -37,6 +37,15 @@ IronGate Logistics is a fictional mid-sized logistics company used to simulate r
 
 ---
 
+## 🔄 Identity Lifecycle Flow
+
+Joiner → Assign Access → Monitor Logs  
+Mover → Detect Privilege Creep → Remediate  
+Leaver → Disable Account → Remove Access  
+Incident → Detect → Investigate → Contain
+
+---
+
 ## 👥 Baseline Users
 
 | User | Role | Assigned Group |
