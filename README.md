@@ -197,7 +197,8 @@ These logs provide:
 - RBAC simplifies access control and improves security  
 - Privilege creep is a major real-world risk  
 - Proper offboarding is critical for security and compliance  
-- Audit logs are essential for detection and investigation  
+- Audit logs are essential for detection and investigation
+- Identity misconfigurations are a leading cause of modern security incidents
 
 ---
 
