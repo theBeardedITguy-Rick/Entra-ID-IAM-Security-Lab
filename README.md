@@ -184,4 +184,4 @@ These logs provide:
 
 # 📎 Author
 Ricardo Cardenas  
-Aspiring SOC Analyst | Security+ Certified
+
