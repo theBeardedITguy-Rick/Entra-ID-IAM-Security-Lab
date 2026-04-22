@@ -2,6 +2,8 @@
 **IronGate Logistics (Simulated Environment)**
 
 ---
+> Built to simulate real-world IAM operations and security monitoring in a cloud identity environment.
+---
 
 ## 📌 Overview
 This project simulates a real-world **Identity and Access Management (IAM)** environment using Microsoft Entra ID. The lab demonstrates how organizations manage user access throughout the **Joiner–Mover–Leaver (JML)** lifecycle while also identifying and responding to security risks such as **privilege creep** and **unauthorized privilege escalation**.
