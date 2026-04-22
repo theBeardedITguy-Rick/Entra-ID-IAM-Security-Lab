@@ -69,6 +69,7 @@ Simulate onboarding a new employee using least privilege.
 Proper onboarding ensures users receive only the access required for their role, reducing the attack surface.
 
 ## Screenshot
+![Joiner User Creation](screenshots/joiner/joiner-user-created.png)
 ![Joiner Audit Log](screenshots/joiner/joiner-audit-log.png)
 ---
 
