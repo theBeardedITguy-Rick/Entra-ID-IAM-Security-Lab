@@ -68,6 +68,8 @@ Simulate onboarding a new employee using least privilege.
 ### Security Insight:
 Proper onboarding ensures users receive only the access required for their role, reducing the attack surface.
 
+## Screenshot
+![Joiner Audit Log](screenshots/joiner/joiner-audit-log.png)
 ---
 
 # 🔵 Mover Scenario (Privilege Creep)
