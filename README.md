@@ -97,6 +97,9 @@ Simulate a role change and identify improper access handling.
 ### Security Insight:
 Privilege creep increases risk by granting unnecessary access, which can be exploited by attackers.
 
+## Screenshots
+![Before Fix](screenshots/mover/mover-before-fix.png)
+![After Fix](screenshots/mover/mover-after-fix.png)
 ---
 
 # 🔴 Leaver Scenario (Offboarding)
