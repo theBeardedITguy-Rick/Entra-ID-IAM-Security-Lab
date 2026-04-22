@@ -85,6 +85,7 @@ Proper onboarding ensures users receive only the access required for their role,
 ![Joiner Audit Log](screenshots/joiner/joiner-audit-log.png)
 
 **Why it matters:** Improper onboarding can introduce excessive access from day one, increasing organizational risk.
+
 ---
 
 # 🔵 Mover Scenario (Privilege Creep)
@@ -118,6 +119,7 @@ Privilege creep increases risk by granting unnecessary access, which can be expl
 ![Audit Log](screenshots/mover/mover-audit-log.png)
 
 **Why it matters:** Role changes are a primary source of privilege creep, which attackers can exploit for lateral movement.
+
 ---
 
 # 🔴 Leaver Scenario (Offboarding)
@@ -143,6 +145,7 @@ Accounts should be **disabled, not deleted**, to preserve logs and enable forens
 ![Audit Log](screenshots/leaver/leaver-audit-log.png)
 
 **Why it matters:** Failure to properly offboard users can lead to unauthorized access and potential data breaches.
+
 ---
 
 # 🚨 Security Incident (Privilege Escalation)
@@ -171,6 +174,7 @@ Unexpected privilege escalation is a strong indicator of compromise and requires
 ![Audit Log](screenshots/incident/incident-audit-log.png)
 
 **Why it matters:** Unauthorized privilege escalation is a key indicator of account compromise and requires immediate response.
+
 ---
 
 # 🔍 Logging & Monitoring
