@@ -10,7 +10,7 @@ This project simulates a real-world **Identity and Access Management (IAM)** env
 
 IronGate Logistics is a fictional mid-sized logistics company used to simulate real-world identity and access management scenarios.
 
-> ⚠️ Disclaimer: This is a simulated lab environment created for educational and portfolio purposes. No real company data or systems were used.
+> ⚠️ Disclaimer: This is a simulated lab environment created for portfolio purposes. No real company data or systems were used.
 
 ---
 
